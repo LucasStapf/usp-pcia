@@ -1,0 +1,13 @@
+A 5 u mgc_schematic 648a2553c490.03.7f.00.00.02.00.12.b9 21 2 1 0
+V v 19 1 6491bc5962d4.03.7f.00.00.02.00.17.1a
+F o 0 ""
+V v 20 1 6491bc5c34b9.03.7f.00.00.02.00.17.1a
+F o 0 ""
+V v 21 1 6491bc5cba07.03.7f.00.00.02.00.17.1a
+F o 0 ""
+O 21
+R cspuv 0 "$cell/default.group/logic.views/AmpOp/schematic/sheet1" 20 mgc_sheet 6491bc5cb9fc.03.7f.00.00.02.00.17.1a 648a2553c4bc.03.7f.00.00.02.00.12.b9
+O 20
+R cspuv 0 "$cell/default.group/logic.views/AmpOp/schematic/sheet1" 19 mgc_sheet 6491bc5c34b2.03.7f.00.00.02.00.17.1a 648a2553c4bc.03.7f.00.00.02.00.12.b9
+O 19
+R cspuv 0 "$cell/default.group/logic.views/AmpOp/schematic/sheet1" 18 mgc_sheet 6491bc5962cc.03.7f.00.00.02.00.17.1a 648a2553c4bc.03.7f.00.00.02.00.12.b9

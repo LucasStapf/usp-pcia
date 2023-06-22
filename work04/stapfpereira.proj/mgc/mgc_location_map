@@ -1,0 +1,67 @@
+# NOTE: This library list was created by ICstudio.
+# Changes made manually will be lost.
+
+MGC_LOCATION_MAP_2
+
+$AMS_DIR -t LIBRARY
+/local/tools/dkit/ams_3.70_mgc
+
+$A_CELLS -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/A_CELLS
+
+$CORELIB -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/CORELIB
+
+$CORELIB_3B -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/CORELIB_3B
+
+$GATES -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/GATES
+
+$GATES_3B -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/GATES_3B
+
+$IOLIB_4M -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIB_4M
+
+$IOLIB_3B_4M -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIB_3B_4M
+
+$IOLIBV5_4M -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIBV5_4M
+
+$IOLIBC_3B_4M -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIBC_3B_4M
+
+$IOLIB_ANA_4M -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIB_ANA_4M
+
+$IOLIB_ANA_3B_4M -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIB_ANA_3B_4M
+
+$IOLIBC_ANA_3B_4M -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIBC_ANA_3B_4M
+
+$SPIRALS_4M -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/SPIRALS_4M
+
+$PRIMLIB -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/PRIMLIB
+
+$TECH_C35B4 -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/TECH_C35B4.lib
+
+$SFCLIB_C35B4C3 -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/ams_libraries/SFCLIB_C35B4C3
+
+$MGC_IC_GENERIC_LIB -t LIBRARY
+/local/tools/mentor/mgc_icstd_lib/generic_lib
+
+$MGC_IC_DEVICE_LIB -t LIBRARY
+/local/tools/mentor/mgc_icstd_lib/device_lib
+
+$MGC_IC_SOURCES_LIB -t LIBRARY
+/local/tools/mentor/mgc_icstd_lib/sources_lib
+
+$cell -t LIBRARY
+/local/users/cad/work04/stapfpereira.proj/cell.lib

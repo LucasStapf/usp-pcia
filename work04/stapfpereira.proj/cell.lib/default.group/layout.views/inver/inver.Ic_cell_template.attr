@@ -1,0 +1,26 @@
+A 5 u Ic_cell_template 64779f36205b.03.7f.00.00.02.00.0e.fa 135 4 16 0
+V v 131 1 6488a3bc8442.03.7f.00.00.02.00.0e.5b
+F f 131 "inver.iccel_131"
+V v 132 1 6488a3bf1d21.03.7f.00.00.02.00.0e.5b
+F f 132 "inver.iccel_132"
+V v 133 1 6488c35651c5.03.7f.00.00.02.00.0e.1d
+F f 133 "inver.iccel_133"
+V v 134 1 6488c8fb2b76.03.7f.00.00.02.00.0e.1d
+F f 134 "inver.iccel_134"
+V v 135 1 6488ccbfb3ec.03.7f.00.00.02.00.0f.25
+F f 135 "inver.iccel_135"
+O 135
+R csdni 2 "$AMS_DIR/mentor/ic_station/c35/rules/c35b4c3.rules" 1 Mgc_file
+R csduv 15 "$AMS_DIR/mentor/ic_station/c35/process/c35b4.process" 6 Ic_persist_process 4442f1efbab0.03.0a.00.a3.19.00.25.d0 43031f30cfe4.03.c0.a4.68.0c.00.37.e6
+O 134
+R csdni 2 "$AMS_DIR/mentor/ic_station/c35/rules/c35b4c3.rules" 1 Mgc_file
+R csduv 14 "$AMS_DIR/mentor/ic_station/c35/process/c35b4.process" 6 Ic_persist_process 4442f1efbab0.03.0a.00.a3.19.00.25.d0 43031f30cfe4.03.c0.a4.68.0c.00.37.e6
+O 133
+R csdni 2 "$AMS_DIR/mentor/ic_station/c35/rules/c35b4c3.rules" 1 Mgc_file
+R csduv 14 "$AMS_DIR/mentor/ic_station/c35/process/c35b4.process" 6 Ic_persist_process 4442f1efbab0.03.0a.00.a3.19.00.25.d0 43031f30cfe4.03.c0.a4.68.0c.00.37.e6
+O 132
+R csdni 2 "$AMS_DIR/mentor/ic_station/c35/rules/c35b4c3.rules" 1 Mgc_file
+R csduv 13 "$AMS_DIR/mentor/ic_station/c35/process/c35b4.process" 6 Ic_persist_process 4442f1efbab0.03.0a.00.a3.19.00.25.d0 43031f30cfe4.03.c0.a4.68.0c.00.37.e6
+O 131
+R csdni 2 "$AMS_DIR/mentor/ic_station/c35/rules/c35b4c3.rules" 1 Mgc_file
+R csduv 13 "$AMS_DIR/mentor/ic_station/c35/process/c35b4.process" 6 Ic_persist_process 4442f1efbab0.03.0a.00.a3.19.00.25.d0 43031f30cfe4.03.c0.a4.68.0c.00.37.e6

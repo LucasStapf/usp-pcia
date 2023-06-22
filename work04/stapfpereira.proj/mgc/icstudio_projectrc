@@ -1,0 +1,27 @@
+[CreationData]
+Created=Tue May 30 17:51:05 BRT 2023
+Host=ec-102v2-01
+MGC_HOME=/local/tools/mentor
+ProjectHardLocation=/local/users/cad/work04/stapfpereira.proj
+ProjectSoftLocation=/local/users/cad/work04/stapfpereira.proj
+User=cad
+Version=
+
+[PROJECT]
+AmplePath=$AMPLE_PATH
+AngleMode=forty_five
+ConfirmSyncLocmapStdLibs=ask
+DrcFile=$AMS_DIR/calibre/c35b4/c35b4c3.rules
+EdifMgcHome=\0
+LvsFile=$AMS_DIR/calibre/c35b4/c35b4c3.rules
+PexFile=$AMS_DIR/calibre/c35b4/c35b4c3.rules
+ProcessFile=$AMS_DIR/mentor/ic_station/c35/process/c35b4.process
+SdlFile=$AMS_DIR/mentor/ic_station/c35/rules/c35b4c3.rules
+VhdlAmsCompileOpts=
+VhdlCompileOpts=
+VlogAmsCompileOpts=
+VlogCompileOpts=
+
+[VERSION]
+appVer=
+

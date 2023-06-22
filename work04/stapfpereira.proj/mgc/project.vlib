@@ -1,0 +1,110 @@
+<!DOCTYPE ICstudioLocMap>
+<locmap type="project" >
+ <entries>
+  <library name="AMS_DIR" >
+   <locations>
+    <location>/local/tools/dkit/ams_3.70_mgc</location>
+   </locations>
+  </library>
+  <library name="A_CELLS" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/A_CELLS</location>
+   </locations>
+  </library>
+  <library name="CORELIB" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/CORELIB</location>
+   </locations>
+  </library>
+  <library name="CORELIB_3B" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/CORELIB_3B</location>
+   </locations>
+  </library>
+  <library name="GATES" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/GATES</location>
+   </locations>
+  </library>
+  <library name="GATES_3B" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/GATES_3B</location>
+   </locations>
+  </library>
+  <library name="IOLIB_4M" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIB_4M</location>
+   </locations>
+  </library>
+  <library name="IOLIB_3B_4M" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIB_3B_4M</location>
+   </locations>
+  </library>
+  <library name="IOLIBV5_4M" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIBV5_4M</location>
+   </locations>
+  </library>
+  <library name="IOLIBC_3B_4M" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIBC_3B_4M</location>
+   </locations>
+  </library>
+  <library name="IOLIB_ANA_4M" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIB_ANA_4M</location>
+   </locations>
+  </library>
+  <library name="IOLIB_ANA_3B_4M" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIB_ANA_3B_4M</location>
+   </locations>
+  </library>
+  <library name="IOLIBC_ANA_3B_4M" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/IOLIBC_ANA_3B_4M</location>
+   </locations>
+  </library>
+  <library name="SPIRALS_4M" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/SPIRALS_4M</location>
+   </locations>
+  </library>
+  <library name="PRIMLIB" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/PRIMLIB</location>
+   </locations>
+  </library>
+  <library name="TECH_C35B4" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/TECH_C35B4.lib</location>
+   </locations>
+  </library>
+  <library name="SFCLIB_C35B4C3" >
+   <locations>
+    <location>/local/users/cad/work04/stapfpereira.proj/ams_libraries/SFCLIB_C35B4C3</location>
+   </locations>
+  </library>
+  <library name="MGC_IC_GENERIC_LIB" >
+   <locations>
+    <location>/local/tools/mentor/mgc_icstd_lib/generic_lib</location>
+   </locations>
+  </library>
+  <library name="MGC_IC_DEVICE_LIB" >
+   <locations>
+    <location>/local/tools/mentor/mgc_icstd_lib/device_lib</location>
+   </locations>
+  </library>
+  <library name="MGC_IC_SOURCES_LIB" >
+   <locations>
+    <location>/local/tools/mentor/mgc_icstd_lib/sources_lib</location>
+   </locations>
+  </library>
+  <library name="cell" >
+   <locations>
+    <location>cell.lib</location>
+   </locations>
+  </library>
+ </entries>
+</locmap>
