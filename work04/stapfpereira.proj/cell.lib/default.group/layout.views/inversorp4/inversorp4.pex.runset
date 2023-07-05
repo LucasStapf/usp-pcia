@@ -1,0 +1,15 @@
+*pexRulesFile: $AMS_DIR/calibre/c35b4/c35b4c3.rules
+*pexRunDir: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inversorp4/inversorp4.cal
+*pexLayoutPaths: inversorp4.calibre.gds
+*pexLayoutPrimary: inversorp4
+*pexLayoutGetFromViewer: 1
+*pexSourcePath: inversorp4.src.net
+*pexSourcePrimary: inversorp4
+*pexReportFile: inversorp4.lvs.report
+*pexPexNetlistFile: inversorp4.pex.netlist
+*pexPexNetlistNameSource: LAYOUT
+*pexPexReportFile: inversorp4.pex.report
+*pexMaskDBFile: inversorp4.maskdb
+*cmnSlaveHosts: {use {}} {hostName {}} {cpuCount {}} {a32a64 {}} {mgcHome {}} {rsh {}} {maxMem {}} {workingDir {}} {layerDir {}} {mgcLibPath {}} {launchName {}}
+*cmnRunHier: 2
+*cmnUseCBforRVE: 0

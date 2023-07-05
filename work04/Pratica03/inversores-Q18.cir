@@ -1,0 +1,40 @@
+****** Inversores **********
+
+.option measDGT=8
+.options ingold=1
+.include Model35_Eldo
+
+* * ingold notacao cientifica *
+*
+
+.options list
+.Param  Wn=5.2u     Wp=15.25u     Lg=0.35u     Ld=0.85u    Wp2=15.25u   
+.Param  Tw=1n     Tr=0.1n   Tf=0.1n
+
+
+Mp1 1 in vdd vdd MODP   L='Lg'  W='Wp'  AD='Wp*Ld'  PD='Wp+2*Ld'  AS='Wp*Ld'  PS='Wp+2*Ld'
+Mn1 1 in 0 0 MODN   L='Lg'  W='Wn'  AD='Wn*Ld'  PD='Wn+2*Ld'  AS='Wn*Ld'  PS='Wn+2*Ld'
+    
+Mp2 2 1 vdd vdd MODP   L='Lg'  W='Wp2'  AD='Wp2*Ld'  PD='Wp2+2*Ld'  AS='Wp2*Ld'  PS='Wp2+2*Ld'
+Mn2 2 1 0 0 MODN   L='Lg'  W='Wn'  AD='Wn*Ld'  PD='Wn+2*Ld'  AS='Wn*Ld'  PS='Wn+2*Ld'
+    
+Mp3 out 2 vdd vdd MODP   L='Lg'  W='Wp'  AD='Wp*Ld'  PD='Wp+2*Ld'  AS='Wp*Ld'  PS='Wp+2*Ld'
+Mn3 out 2 0 0 MODN   L='Lg'  W='Wn'  AD='Wn*Ld'  PD='Wn+2*Ld'  AS='Wn*Ld'  PS='Wn+2*Ld'
+
+Cout out 0 200fF
+
+Vdd vdd 0 DC 3V
+*Vin in 0 DC 0V
+Vin in 0 PULSE (0 3 0 Tr Tf '0.45*Tw' Tw)
+
+.MEAS TRAN DelayFall2 TRIG V(1) val=1.5 rise=8 targ V(2) val=1.5 fall=8
+.MEAS TRAN DelayRise2 TRIG V(1) val=1.5 fall=8 targ V(2) val=1.5 rise=8
+
+*.DC Vin 0V 3V 0.01mV
+.TRAN 1n 10n 0 0.01n SWEEP Wp2 INCR 0.1u 12.00u 14.00u
+
+*.PROBE DC V(in) V(1)
+.PROBE TRAN V(in) V(1) V(2) V(out)
+
+
+.end

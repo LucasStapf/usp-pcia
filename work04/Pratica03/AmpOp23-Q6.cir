@@ -1,0 +1,48 @@
+****** Twostage Amplifier 2021 **********
+
+.option measDGT=8
+.options ingold=1
+* * ingold notacao cientifica *
+* 
+.options list
+
+.Param   X1= 4.46  X2= 1.0  X3= 2.3  X4= 1.0  X5= 41.93  X6= 15.23  
+.Param   X7= 119.24  X8= 19.78  X9= 30.8  X10= 1  X11= 0.279  
+.Param   M1= 10.00    Wpadrao=0.85u
+
+M1 1 in 4 vs MODN	      L = 'X1*1u'	W = 'X5*1u'   AD = 'X5*1u*Wpadrao/2'	 	PD = 'X5*1u + Wpadrao'	AS = 'X5*1u*Wpadrao/2'	 	PS = 'X5*1u + Wpadrao'
+M2 3 ip 4 vs MODN	      L = '(X1+0.03)*1u'	W = 'X5*1u'   AD = 'X5*1u*Wpadrao/2'	 	PD = 'X5*1u + Wpadrao'	AS = 'X5*1u*Wpadrao/2'	 	PS = 'X5*1u + Wpadrao'
+M3 1 1 vd vd MODP	      L = 'X2*1u'	W = 'X6*1u'   AD = 'X6*1u*Wpadrao/2'		PD = 'X6*1u + Wpadrao'  AS = 'X6*1u*Wpadrao/2'	 	PS = 'X6*1u + Wpadrao'
+M4 3 1 vd vd MODP	      L = 'X2*1u'	W = 'X6*1u'   AD = 'X6*1u*Wpadrao/2'		PD = 'X6*1u + Wpadrao'  AS = 'X6*1u*Wpadrao/2'	 	PS = 'X6*1u + Wpadrao'
+M5 4 bias vs vs MODN	      L = 'X3*1u'	W = 'X7*1u'   AD = 'X7*1u*Wpadrao/2'		PD = 'X7*1u + Wpadrao'  AS = 'X7*1u*Wpadrao/2'	 	PS = 'X7*1u + Wpadrao' M = 'round(M1)'
+M6 out 3 vd vd MODP	      L = 'X2*1u'	W = 'X6*1u'   AD = 'X6*1u*Wpadrao/2'	 	PD = 'X6*1u + Wpadrao'  AS = 'X6*1u*Wpadrao/2'	 	PS = 'X6*1u + Wpadrao' M = '2*round(X8)/round(M1)'
+M7 out bias vs vs MODN	      L = 'X3*1u'	W = 'X7*1u'   AD = 'X7*1u*Wpadrao/2'		PD = 'X7*1u + Wpadrao'  AS = 'X6*1u*Wpadrao/2'	 	PS = 'X6*1u + Wpadrao' M= 'round(X8)'
+M8 3 vs 5 vd MODP 	      L = 'X4*1u'	W = 'X9*1u'   AD = 'X9*1u*Wpadrao/2'	 	PD = 'X9*1u + Wpadrao'  AS = 'X9*1u*Wpadrao/2'	 	PS = 'X9*1u + Wpadrao'
+Mbn bias bias vs vs MODN      L = 'X3*1u'	W = 'X7*1u'   AD = 'X7*1u*Wpadrao/2'		PD = 'X7*1u + Wpadrao'  AS = 'X7*1u*Wpadrao/2'	 	PS = 'X7*1u + Wpadrao'
+
+Cc 5 out  'X10*1p'
+Cl out 0 1pF
+Ibb vd bias DC '(10^X11)*1u'
+Rout  out  0  100Meg
+
+Vdd vd 0 DC 1.5V
+Vss vs 0 DC -1.5V
+
+*Vin in 0 DC -70.96uV
+Vin in 0 DC -402.39uV ** CANCELAR OFFSET **
+Vip ip 0 DC 0V AC 1V
+*Vip  ip  0 pulse( 1 -1 0  1n  1n 5us  10us) 
+
+
+*.DC Vin -1mV  1mV  1uV
+*.probe DC v(out)
+.AC DEC 10 1 100Meg
+.probe AC  vdb(out) vp(out)
+*.pz v(out)
+.probe tran v(in) v(ip) v(out) Id(M1) Id(M2) I(Vdd) 
+.include Model35_Eldo
+*.ic V(out)=1 V(3)=0
+.tran 10u 50us 0 0.01u
+
+*.print Tran v(in)
+.end

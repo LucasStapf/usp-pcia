@@ -1,0 +1,8 @@
+*drcRulesFile: $AMS_DIR/calibre/c35b4/c35b4c3.rules
+*drcRunDir: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inversorp4/inversorp4.cal
+*drcLayoutPaths: inversorp4.calibre.gds
+*drcLayoutPrimary: inversorp4
+*drcLayoutGetFromViewer: 1
+*drcResultsFile: inversorp4.drc.results
+*drcSummaryFile: inversorp4.drc.summary
+*cmnSlaveHosts: {use {}} {hostName {}} {cpuCount {}} {a32a64 {}} {mgcHome {}} {rsh {}} {maxMem {}} {workingDir {}} {layerDir {}} {mgcLibPath {}} {launchName {}}

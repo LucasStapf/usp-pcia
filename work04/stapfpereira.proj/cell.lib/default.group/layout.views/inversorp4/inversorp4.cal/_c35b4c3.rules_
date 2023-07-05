@@ -1,0 +1,36 @@
+//
+//  Rule file generated on Tue Jul 04 17:45:40 BRT 2023
+//     by Calibre Interactive - PEX (v2006.2_16.16)
+//
+//      *** PLEASE DO NOT MODIFY THIS FILE ***
+//
+//
+
+LAYOUT PATH  "inversorp4.calibre.gds"
+LAYOUT PRIMARY "inversorp4"
+LAYOUT SYSTEM GDSII
+
+SOURCE PATH "inversorp4.src.net"
+SOURCE PRIMARY "inversorp4"
+SOURCE SYSTEM SPICE
+
+MASK SVDB DIRECTORY "svdb" QUERY XRC
+
+LVS REPORT "inversorp4.lvs.report"
+
+PEX NETLIST DISTRIBUTED "inversorp4.pex.netlist" ELDO 1 LAYOUT LOOP 
+PEX REPORT  DISTRIBUTED NONE
+
+LVS RECOGNIZE GATES ALL
+
+
+VIRTUAL CONNECT COLON NO
+VIRTUAL CONNECT REPORT NO
+
+#IFDEF $MGC_CALIBRE_INTERACTIVE
+   DRC ICSTATION YES
+#ENDIF
+
+
+INCLUDE "/local/tools/dkit/ams_3.70_mgc/calibre/c35b4/c35b4c3.rules"
+

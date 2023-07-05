@@ -1,0 +1,50 @@
+* File: inversorp4.pex.netlist.pex
+* Created: Tue Jul  4 17:45:47 2023
+* Program "Calibre xRC"
+* Version "v2006.2_16.16"
+* Nominal Temperature: 27C
+* Circuit Temperature: 27C
+* 
+.subckt PM_INVERSORP4_OUT 1 2 3 4 10 11 12
+c13 11 0 0.0586196f
+c14 10 0 0.0711385f
+c15 4 0 0.134721f
+c16 3 0 0.106755f
+r17 11 12 1.07143 
+r18 11 8 0.0699738 
+r19 8 10 0.432 
+r20 7 10 0.144 
+r21 3 7 0.0699738 
+r22 3 4 0.282857 
+r23 2 12 10.7143 
+r24 1 4 20 
+.ends
+
+.subckt PM_INVERSORP4_IN 9 10 14 20 26 28
+c18 20 0 0.128812f
+c19 10 0 0.0820781f
+c20 9 0 0.15408f
+r21 26 28 0.0430286 
+r22 20 28 10 
+r23 17 20 7.92 
+r24 13 17 2.75 
+r25 13 14 211.357 
+r26 9 17 2.75 
+r27 9 10 86.4286 
+.ends
+
+.subckt PM_INVERSORP4_VSS 3 4 5 10
+c7 10 0 0.145674f
+c8 5 0 0.179645f
+r9 5 10 0.0825 
+r10 4 5 30 
+r11 3 5 20 
+.ends
+
+.subckt PM_INVERSORP4_VDD 2 3 5 7
+c12 2 0 28.9973f
+r13 5 7 0.4875 
+r14 3 7 10.7143 
+r15 2 7 7.14286 
+.ends
+

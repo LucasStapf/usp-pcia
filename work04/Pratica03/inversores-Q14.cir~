@@ -1,0 +1,29 @@
+****** Inversores **********
+
+.option measDGT=8
+.options ingold=1
+.include Model35_Eldo
+
+* * ingold notacao cientifica *
+*
+
+.options list
+.Param  Wn=1.2u     Wp=3.5u     Lg=0.35u     Ld=0.85u
+
+
+Mp1 1 in vdd vdd MODP   L='Lg'  W='Wp'  AD='Wp*Ld'  PD='Wp+2*Ld'  AS='Wp*Ld'  PS='Wp+2*Ld'
+Mn1 1 in 0 0 MODN   L='Lg'  W='Wn'  AD='Wn*Ld'  PD='Wn+2*Ld'  AS='Wn*Ld'  PS='Wn+2*Ld'
+    
+Mp2 2 1 vdd vdd MODP   L='Lg'  W='Wp'  AD='Wp*Ld'  PD='Wp+2*Ld'  AS='Wp*Ld'  PS='Wp+2*Ld'
+Mn2 2 1 0 0 MODN   L='Lg'  W='Wn'  AD='Wn*Ld'  PD='Wn+2*Ld'  AS='Wn*Ld'  PS='Wn+2*Ld'
+    
+Mp3 out 2 vdd vdd MODP   L='Lg'  W='Wp'  AD='Wp*Ld'  PD='Wp+2*Ld'  AS='Wp*Ld'  PS='Wp+2*Ld'
+Mn3 out 2 0 0 MODN   L='Lg'  W='Wn'  AD='Wn*Ld'  PD='Wn+2*Ld'  AS='Wn*Ld'  PS='Wn+2*Ld'
+    
+Vdd vdd 0 DC 3V
+Vin in 0 DC 0V
+
+.DC Vin 0V 3V 0.01mV
+.PROBE DC V(in) V(1)  
+
+.end

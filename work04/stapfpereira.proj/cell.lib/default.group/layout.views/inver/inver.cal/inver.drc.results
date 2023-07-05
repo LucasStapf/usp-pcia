@@ -1,6 +1,6 @@
 inver 1000
 INFO_PROCESS_C35B4C3
-1 1 3 Jun 13 16:56:48 2023                     
+1 1 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO : DRC checked with c35b4c3
@@ -10,356 +10,356 @@ p 1 4
 5400 1075
 4400 1075
 ILL_LVTDEF_UNAVAILABLE
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Process Modules : LVTDEF not available
 CVAR_CAP_UNSUPPORTED_ELE
-0 0 4 Jun 13 16:56:48 2023                     
+0 0 4 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Device Warning : This ngate in nwell is extracted as single gate cap
 Device Warning : unsupported device, no standard size
 CVAR_OLD_VERSION_NO_RFDEF_ELE
-0 0 5 Jun 13 16:56:48 2023                     
+0 0 5 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Device Warning : old version of CVAR
 new version of CVAR must have RFDEF
 for correct parasitic extraction
 ILL_ZDIODE_UNDEFINED
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Zener diode must have 0.2 implant ovlp
 ILL_RFPAD_UNSUPPORTED
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Device Error : RF PAD is not supported yet for this process 
 BAD_SPIRAL_OPEN_M4
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Warning : spiral met4 terminals not connected
 BAD_SPIRAL_MET3_INTSHORT
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : internal spiral met3 short
 BAD_SPIRAL_MET2_INTSHORT
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : internal spiral met2 short
 BAD_SPIRAL_MET4_INTSHORT
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : internal spiral met4 short
 BAD_SPIRAL_MET2SHORT
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : spiral may be shorted to external met2
 BAD_SPIRAL_MET3SHORT
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : spiral may be shorted to external met3
 BAD_SPIRAL_MET4SHORT
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : spiral may be shorted to external met4
 BAD_SPIRAL_ILLEGAL_LAYER
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : illegal layer below spiral
 INFO_UNKNOWN_SPIRAL_NAME
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : Name of Spiral not identified
 BAD_SPIRAL_LAYOUT
-0 0 4 Jun 13 16:56:48 2023                     
+0 0 4 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : INDDEF does not define a correct spiral
 check for name, pin text, process
 INFO_CORN_NTUB_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: NTUB allowed angles 90/135 degree
 INFO_CORN_DIFF_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: DIFF allowed angles 90/135 degree
 INFO_CORN_MIDOX_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: MIDOX allowed angles 90/135 degree
 INFO_CORN_POLY1_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: POLY1 allowed angles 90/135 degree
 INFO_CORN_NPLUS_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: NPLUS allowed angles 90/135 degree
 INFO_CORN_PPLUS_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: PPLUS allowed angles 90/135 degree
 INFO_CORN_HRES_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: HRES allowed angles 90/135 degree
 INFO_CORN_POLY2_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: POLY2 allowed angles 90/135 degree
 ILL_CORN_CONT_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: CONT allowed angles 90 degree
 INFO_CORN_MET1_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: MET1 allowed angles 90/135 degree
 ILL_CORN_VIA_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: VIA allowed angles 90 degree
 INFO_CORN_MET2_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: MET2 allowed angles 90/135 degree
 ILL_CORN_VIA2_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: VIA2 allowed angles 90 degree
 INFO_CORN_MET3_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: MET3 allowed angles 90/135 degree
 ILL_CORN_VIA3_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: VIA3 allowed angles 90 degree
 INFO_CORN_MET4_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: MET4 allowed angles 90/135 degree
 INFO_CORN_PAD_REC002
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 REC002: PAD allowed angles 90 degree
 INFO_NWELL_HOT
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO: this nwell is hot
 WIDTH_NTUB_NWW1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NW_W_1 Minimum NTUB width = 1.7  U
 WIDTH_NTUBHOT_NWW2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NW_W_2 Minimum HOT_NTUB width = 3.0  U
 SPAC_NTUB_UNCONN_NWS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NW_S_1 Minimum spacing of NTUB with different potential = 3.0  U
 SPAC_NTUB_CONN_NWS2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NW_S_2 Minimum spacing of NTUB with same potential = 1.0  U
 SPAC_NTUB_NOTCH_NWS2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NW_S_2 Minimum spacing of NTUB with same potential = 1.0  U
 WIDTH_DIFF_ODW1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_W_1 Minimum DIFF width to define the width of NMOS/PMOS = 0.4  U
 WIDTH_DIFF_ODW2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_W_2 Minimum DIFF width for interconnection (NDIFF or PDIFF) = 0.3  U
 SPAC_PDIFF_ODS1P
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_S_1 Minimum DIFF spacing = 0.6  U
 SPAC_NDIFF_ODS1N
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_S_1 Minimum DIFF spacing = 0.6  U
 SPAC_DIFF_NOTCH_ODS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_S_1 Minimum DIFF spacing = 0.6  U
 OVLP_NTUB_NDIFF_ODC1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_C_1  Minimum NTUB enclosure of NDIFF = 0.2  U
 SPAC_NDIFF_NTUB_ODC2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_C_2 Minimum NDIFF to NTUB spacing = 1.2
 SPAC_NDIFF_NTUBHOT_ODC3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_C_3 Minimum NDIFF to HOT_NTUB spacing (no PTAP in between) = 2.6
 OVLP_NTUB_PDIFF_ODC4
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_C_4 Minimum NTUB enclosure of PDIFF = 1.2 U
 SPAC_PDIFF_NTUB_ODC5
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_C_5 Minimum PDIFF to NTUB spacing = 0.2 U
 OVLP_BUTTPDIFF_NGATE_ODC6A
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_C_6a Minimum PDIFF to NGATE spacing = 0.45 
 OVLP_BUTTNDIFF_PGATE_ODC6B
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_C_6b Minimum NDIFF to PGATE spacing = 0.45 
 SPAC_PDIFF_NDIFF_ODS2B
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD_S_2B Minimum NDIFF to non-butting PDIFF spacing = 0.6 
 INFO_NPLUS_AND_PPLUS
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO: nplus pplus overlap
 INFO_DIFF_NOIMPL
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO: Diffusion region missing nplus/pplus
 WIDTH_MIDOX_W1XM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 W1XM Minimum MIDOX width = 0.6  U
 OVLP_MIDOX_DIFF_OD2E1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD2_E_1 Minimum MIDOX enclosure of DIFF = 0.6  U 
 SPAC_MIDOX_OD2S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD2_S_1 Minimum MIDOX spacing = 0.6 
 SPAC_MIDOX_NOTCH_OD2S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD2_S_1 Minimum MIDOX spacing = 0.6 
 SPAC_MIDOX_DIFF_OD2C1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 OD2_C_1 Minimum MIDOX to DIFF spacing = 0.6      
 ILL_MIDOX_NOGATE_BAD1XM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 BAD1XM MIDOX outside GATE is not allowed
 LENGTH_PGATE_POW1A
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO_W_1a Minimum GATE length of PMOS = 0.35 
 LENGTH_PGATE_POW1B
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO_W_1b Minimum GATE length of PMOSM = 0.5 
 LENGTH_NGATE_POW2A
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO_W_2a Minimum GATE length of NMOS = 0.35 
 LENGTH_NGATE_POW2B
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO_W_2b Minimum GATE length of NMOSM = 0.5 
 WIDTH_POLY_POW3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO_W_3 Minimum POLY1 width for interconnect = 0.35
 SPAC_POLY1_POS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO_S_1 Minimum POLY1 spacing = 0.45 
 SPAC_POLY1_NOTCH_POS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO_S_1 Minimum POLY1 spacing = 0.45 
 SPAC_DIFF_POLY_POC1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO_C_1 Minimum POLY1 to DIFF spacing = 0.2 
 OVLP_DIFF_GATE_POC2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO_C_2 Minimum DIFF extension of GATE = 0.5 
 OVLP_POLY1_GATE_POO1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO_O_1 Minimum POLY1 extension of GATE = 0.4 
 ILL_POLY1_DIE_RATIO_POR1
-1 1 3 Jun 13 16:56:48 2023                     
+1 1 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO_R_1 Minimum density of POLY1 area [%] = 14 
@@ -369,272 +369,272 @@ p 1 4
 10200 3200
 -400 3200
 WIDTH_POCAP_PO2W1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_W_1 Minimum CPOLY width = 0.8 
 SPAC_POCAP_PO2S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_S_1 Minimum CPOLY spacing = 0.65 
 OVLP_POLY1_POLY2_PO2E1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_E_1 Minimum POLY1 enclosure of CPOLY = 1.0 
 OVLP_POLY2_CONT_PO2E2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_E_2 Minimum CPOLY enclosure of POLY2CON = 0.6 
 SPAC_POLY2_P1CON_PO2C1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_C_1 Minimum POLY1CON to CPOLY spacing = 1.2 
 WIDTH_POLY2_PO2W2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_W_2 Minimum POLY2 width = 0.65 
 SPAC_POLY2_PO2S2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_S_2 Minimum POLY2 spacing = 0.5 
 SPAC_POLY2_NOTCH_PO2S2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_S_2 Minimum POLY2 spacing = 0.5 
 WIDTH_RPOLYH_PO2W3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_W_3 Minimum RPOLYH width = 0.8 
 SPAC_RPOLYH_PO2S3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_S_3 Minimum RPOLYH spacing = 0.75 
 SPAC_RPOLYH_NOTCH_PO2S3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_S_3 Minimum RPOLYH spacing = 0.75 
 SPAC_DIFF_POLY2_PO2C2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_C_2 Minimum DIFF to POLY2 spacing = 0.2 
 SPAC_POLY1_POLY2_PO2C3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_C_3 Minimum POLY1 to POLY2 spacing = 0.65 
 OVLP_POLY2_CONT_PO2E3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_E_3 Minimum POLY2 enclosure of POLY2CON = 0.25 
 ILL_POLY2_DIFF_PO2R1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PO2_R_1 POLY2 on DIFF is not allowed 
 WIDTH_PPLUS_PPW1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PP_W_1 Minimum PPLUS width = 0.6 
 SPAC_PPLUS_PPS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PP_S_1 Minimum PPLUS spacing = 0.6 
 SPAC_PPLUS_NOTCH_PPS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PP_S_1 Minimum PPLUS spacing = 0.6 
 SPAC_PPLUS_DIFF_PPC1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PP_C_1 Minimum PPLUS to DIFF spacing = 0.35 
 SPAC_PPLUS_NGATE_PPC2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PP_C_2 Minimum PPLUS to NGATE spacing = 0.45   
 OVLP_PPLUS_PGATE_PPC3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PP_C_3 Minimum PPLUS extension of PGATE = 0.45 
 OVLP_PPLUS_DIFF_PPO1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PP_O_1 Minimum overlap of PPLUS and DIFF = 0.45 
 OVLP_PPLUS_DIFF_PPE1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PP_E_1 Minimum PPLUS extension of DIFF = 0.25 
 SPAC_IMPL_POLY_PPC5_NPC5
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PP_C_5 NP_C_5 Minimum PPLUS to NPLUS spacing on POLY1 = 0.25 
 SPAC_PPLUS_NPLUS_DIFF_PPC6
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PP_C_6 Minimum PPLUS to NPLUS spacing on DIFF with same potential = 0.0 
 WIDTH_NPLUS_NPW1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NP_W_1 Minimum NPLUS width = 0.6 
 SPAC_NPLUS_NPS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NP_S_1 Minimum NPLUS spacing = 0.6 
 SPAC_NPLUS_NOTCH_NPS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NP_S_1 Minimum NPLUS spacing = 0.6 
 SPAC_NPLUS_DIFF_NPC1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NP_C_1 Minimum NPLUS to DIFF spacing = 0.35 
 SPAC_NPLUS_PGATE_NPC2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NP_C_2 Minimum NPLUS to PGATE spacing = 0.45   
 OVLP_NPLUS_NGATE_NPC3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NP_C_3 Minimum NPLUS extension of NGATE = 0.45 
 OVLP_NPLUS_DIFF_NPO1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NP_O_1 Minimum overlap of NPLUS and DIFF = 0.45 
 OVLP_NPLUS_DIFF_NPE1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NP_E_1 Minimum NPLUS extension of DIFF = 0.25 
 SPAC_PPLUS_NPLUS_DIFF_NPC6
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NP_C_6 Minimum NPLUS to PPLUS spacing on DIFF with same potential = 0.0 
 WIDTH_CONT_COW1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CO_W_1 Fixed CONT width = 0.4 
 SPAC_CONT_COS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CO_S_1 Minimum CONT spacing = 0.4 
 SPAC_CONT_NOTCH_COS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CO_S_1 Minimum CONT spacing = 0.4 
 SPAC_DIFFCON_GATE_COC1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CO_C_1 Minimum DIFFCON to GATE spacing = 0.3 
 SPAC_POLYCON_GATE_COC2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CO_C_2 Minimum POLY1CON to DIFF spacing = 0.4 
 OVLP_DIFF_CONT_COE1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CO_E_1 Minimum DIFF enclosure of DIFFCON = 0.15 
 OVLP_POLY_CONT_COE2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CO_E_2 Minimum POLY1 enclosure of POLY1CON = 0.2 
 OVLP_PPLUS_DIFFCON_COE3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CO_E_3 Minimum PPLUS enclosure of PDIFFCON = 0.25 
 OVLP_NPLUS_DIFFCON_COE4
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CO_E_4 Minimum NPLUS enclosure of NDIFFCON = 0.25 
 ILL_POLYCONT_DIFF_COR1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CO_R_1 POLY1CON on DIFF is not allowed 
 ILL_BUTTCON_COR2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CO_R_2 Butted CONT is not allowed 
 ILL_CONT_ISOLATED_R01CT
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 R01CT CONT without DIFF or POLY1 or POLY2 is not allowed
 ILL_CONT_MET1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: CONT without MET1
 ILL_CONT_DIFFPOLY
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: CONT without diff or poly
 WIDTH_MET1_M1W1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M1_W_1 Minimum MET1 width = 0.5 
 SPAC_MET1_M1S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M1_S_1 Minimum MET1 spacing = 0.45 
 SPAC_MET1_NOTCH_M1S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M1_S_1 Minimum MET1 spacing = 0.45 
 SPAC_MET1WIDE_M1S2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M1_S_2 Minimum MET1 to WIDE_MET1 spacing = 0.8 
 OVLP_MET1_CONT_M1E1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M1_E_1 Minimum MET1 enclosure of CONT = 0.15 
 ILL_MET1_DIE_RATIO_M1R1
-1 1 3 Jun 13 16:56:48 2023                     
+1 1 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M1_R_1 Minimum density of MET1 area [%] = 30 
@@ -644,62 +644,62 @@ p 1 4
 10200 3200
 -400 3200
 WIDTH_VIA1_V1W1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VIA1_W_1 Fixed VIA1 width = 0.5 
 SPAC_VIA_VIAS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VIA1_S_1 Minimum VIA1 spacing = 0.45 
 SPAC_VIA_NOTCH_VIA1S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VIA1_S_1 Minimum VIA1 spacing = 0.45 
 OVLP_MET1_VIA1_VIA1E1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VIA1_E_1 Minimum MET1 enclosure of VIA1 = 0.2  
 ILL_VIA1_ISOLATED_R01V1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 R01V1 VIA1 without MET1 is not allowed
 ILL_VIA_MET1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: via1 missing metal1
 WIDTH_MET2_M2W1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M2_W_1 Minimum MET2 width = 0.6 
 SPAC_MET2_M2S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M2_S_1 Minimum MET2 spacing = 0.5 
 SPAC_MET2_NOTCH_M2S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M2_S_1 Minimum MET2 spacing = 0.5 
 SPAC_MET2WIDE_M2S2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M2_S_2 Minimum MET2 to WIDE_MET2 spacing = 0.8 
 OVLP_MET2_VIA_M2E1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M2_E_1 Minimum MET2 enclosure of VIA1 = 0.15 
 ILL_MET2_DIE_RATIO_M2R1
-1 1 3 Jun 13 16:56:48 2023                     
+1 1 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M2_R_1 Minimum density of MET2 area [%] = 30 
@@ -709,62 +709,62 @@ p 1 4
 10200 3200
 -400 3200
 WIDTH_VIA2_VIA2W1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VIA2_W_1 Fixed VIA2 width = 0.5 
 SPAC_VIA2_VIA2S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VIA2_S_1 Minimum VIA2 spacing = 0.45 
 SPAC_VIA2_NOTCH_VIA2S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VIA2_S_1 Minimum VIA2 spacing = 0.45 
 OVLP_MET2_VIA2_VIA2E1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VIA2_E_1 Minimum MET2 enclosure of VIA2 = 0.2 
 ILL_VIA2_ISOLATED_R01V2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 R01V2 VIA2 without MET2 is not allowed
 ILL_VIA2_MET2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: via2 missing metal2
 WIDTH_MET3_M3W1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M3_W_1 Minimum MET3 width = 0.6 
 SPAC_MET3_M3S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M3_S_1 Minimum MET3 spacing = 0.5 
 SPAC_MET3_NOTCH_M3S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M3_S_1 Minimum MET3 spacing = 0.5 
 OVLP_MET3_VIA2_M3E1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M3_E_1 Minimum MET3 enclosure of VIA2 = 0.15 
 SPAC_MET3WIDE_M3S2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M3_S_2 Minimum MET3 to WIDE_MET3 spacing = 0.8 
 ILL_MET3_DIE_RATIO_M3R1
-1 1 3 Jun 13 16:56:48 2023                     
+1 1 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M3_R_1 Minimum density of MET3 area [%] = 30 
@@ -774,67 +774,67 @@ p 1 4
 10200 3200
 -400 3200
 WIDTH_VIA3_VIA3W1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VIA3_W_1 Fixed VIA3 width = 0.5 
 SPAC_VIA3_VIA3S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VIA3_S_1 Minimum VIA3 spacing = 0.45 
 SPAC_VIA3_NOTCH_VIA3S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VIA3_S_1 Minimum VIA3 spacing = 0.45 
 OVLP_MET3_VIA3_VIA3E1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VIA3_E_1 Minimum MET3 enclosure of VIA3 = 0.2 
 ILL_VIA3_ISOLATED_R01V3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 R01V3 VIA3 without MET3 is not allowed
 ILL_VIA3_MET3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: via3 missing met3   
 ILL_VIA3_MET4
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: via3 missing met4   
 WIDTH_MET4_M4W1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M4_W_1 Minimum MET4 width = 0.6 
 SPAC_MET4_M4S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M4_S_1 Minimum MET4 spacing = 0.6 
 SPAC_MET4_NOTCH_M4S1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M4_S_1 Minimum MET4 spacing = 0.6 
 OVLP_MET4_VIA3_M4E1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M4_E_1 Minimum MET4 enclosure of VIA3 = 0.15 
 SPAC_MET4WIDE_M4S2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M4_S_2 Minimum MET4 to WIDE_MET4 spacing = 0.8 
 ILL_MET4_DIE_RATIO_M4R1
-1 1 3 Jun 13 16:56:48 2023                     
+1 1 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 M4_R_1 Minimum density of MET4 area [%] = 30 
@@ -844,691 +844,691 @@ p 1 4
 10200 3200
 -400 3200
 ILL_DIFF_PAD_BAD1PA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: diffusion on pad          
 ILL_POLY1_PAD_BAD2PA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: poly1 on pad
 ILL_POLY2_PAD_BAD3PA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: poly2 on pad
 ILL_CONT_PAD
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: contact on pad 
 NO_MET1_UNDER_PAD_CBR1_REC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CBR1 recommended metal1 under pad
 NO_MET2_UNDER_PAD_CBR1_REC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CBR1 recommended metal2 under pad
 NO_MET3_UNDER_PAD_CBR1_REC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CBR1 recommended metal3 under pad
 NO_MET4_UNDER_PAD_CBR1_REC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CBR1 recommended metal4 under pad
 INFO_TEST_PROBE_PAD
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO: Test or Probe pad < 70 * 70 U
 ILL_MISS_MET4_PROBEPAD_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Missing met4 on Test/Probe Pad
 WIDTH_TEPROPAD_W1PA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 W1PA  Minimum PAD width = 15.0 U 
 WIDTH_BONDPAD_CBW1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_W_1 Minimum bonding PAD width = 85.0 
 SPAC_PAD_CBS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_S_1 Minimum PAD spacing = 15.0 
 SPAC_PAD_NOTCH_CBS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_S_1 Minimum PAD spacing = 15.0 
 OVLP_MET1_PAD_CBE1
-0 0 4 Jun 13 16:56:48 2023                     
+0 0 4 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_E_1 Minimum MET1 enclosure of PAD = 5.0 
 and PAD without MET1 is not allowed 
 OVLP_MET2_PAD_CBE2
-0 0 4 Jun 13 16:56:48 2023                     
+0 0 4 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_E_2 Minimum MET2 enclosure of PAD = 5.0 
 and PAD without MET2 is not allowed 
 OVLP_MET3_PAD_CBE3
-0 0 4 Jun 13 16:56:48 2023                     
+0 0 4 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_E_3 Minimum MET3 enclosure of PAD = 5.0 
 and PAD without MET3 is not allowed 
 OVLP_MET4_PAD_CBE4
-0 0 4 Jun 13 16:56:48 2023                     
+0 0 4 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_E_4 Minimum MET4 enclosure of PAD = 5.0 
 and PAD without MET4 is not allowed 
 OVLP_PADVIA_MET1_CBE5
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_E_5 Minimum MET1 enclosure of the nearest PADVIA1 = 3.0 
 INFO_PADVIA_NO_DIAMOND_CBE5
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO CB_E_5 no or bad diamond shape of padvia array (must have 4 corners)
 INFO_PADVIA2_NO_DIAMOND_CBE7
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO CB_E_7 no or bad diamond shape of padvia2 array (must have 4 corners)
 INFO_PADVIA3_NO_DIAMOND_CBE9
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO CB_E_9 no or bad diamond shape of padvia3 array (must have 4 corners)
 OVLP_PADVIA_MET2_CBE7
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_E_7 Minimum MET2 enclosure of the nearest PADVIA2 and PADVIA1 = 3.0  U
 OVLP_PADVIA2_MET2_CBE7
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_E_7 Minimum MET2 enclosure of the nearest PADVIA2 and PADVIA1 = 3.0  U
 OVLP_PADVIA2_MET3_CBE9
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_E_9 Minimum MET3 enclosure of the nearest PADVIA3 and PADVIA2 = 3.0  U
 OVLP_PADVIA3_MET3_CBE9
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_E_9 Minimum MET3 enclosure of the nearest PADVIA3 and PADVIA2 = 3.0  U
 OVLP_PADVIA3_MET4_CBE11
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_E_11 Minimum MET4 enclosure of the nearest PADVIA3 = 3.0  U
 SPAC_PADVIA_CBS2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_S_2 Minimum PADVIA1 spacing = 0.8  U
 SPAC_PADVIA2_CBS3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_S_3 Minimum PADVIA2 spacing = 0.8 U
 SPAC_PADVIA3_CBS4
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_S_4 Minimum PADVIA3 spacing = 0.8  U
 SPAC_PADVIAVIA2_CBC1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_C_1 Minimum PADVIA2 to PADVIA1 spacing = 0.3  U
 SPAC_PADVIA2VIA3_CBC2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_C_2 Minimum PADVIA3 to PADVIA2 spacing = 0.3  U
 ILL_PADVIA_PAD_RATIO_CBR2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_R_2 Minimum ratio of PADVIA1 area to PAD area [%] = 5 
 ILL_PADVIA2_PAD_RATIO_CBR3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_R_3 Minimum ratio of PADVIA2 area to PAD area [%] = 5 
 ILL_PADVIA3_PAD_RATIO_CBR4
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_R_4 Minimum ratio of PADVIA3 area to PAD area [%] = 5 
 ILL_PADVIA_PADVIA2_CBC2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_C_2 illegal pad via stack via1/via2
 ILL_PADVIA2_PADVIA3_CBC3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CB_C_3 illegal pad via stack via2/via3
 SPAC_DIFF_BONDPAD_S1DFPA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1DFPA Minimum PAD to DIFF spacing = 9.0  U
 SPAC_POLY1_BONDPAD_S1P1PA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1P1PA Minimum PAD to POLY1 spacing = 9.0  U
 SPAC_POLY2_BONDPAD_S1P2PA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1P2PA Minimum PAD to POLY2 spacing = 9.0 U
 SPAC_MET1_BONDPAD_S1M1PA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1M1PA Minimum PAD to MET1 spacing (different net) = 9.0  U
 SPAC_MET2_BONDPAD_S1M2PA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1M2PA Minimum PAD to MET2 spacing (different net) = 9.0  U
 SPAC_MET3_BONDPAD_S1M3PA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1M3PA Minimum PAD to MET3 spacing (different net) = 9.0  U
 SPAC_MET4_BONDPAD_S1M4PA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1M4PA Minimum PAD to MET4 spacing (different net) = 9.0 U
 ILL_PAD_MISSING_MET4_R01PA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 R01PA Pad without met4 is not allowed
 WIDTH_HRES_W1HR
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 W1HR Minimum HRES width = 0.6  U
 SPAC_HRES_S1HRHR
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1HRHR Minimum HRES spacing = 0.6  U
 SPAC_HRES_NOTCH_S1HRHR
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1HRHR Minimum HRES spacing = 0.6  U
 ILL_HRES_DIFF_BAD1HR
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 BAD1HR  
 ILL_HRES_NPLUS_BAD2HR
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 BAD2HR 
 ILL_HRES_POLY1_BAD3HR
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 BAD3HR  
 OVLP_HRES_POLY2_E1HRP2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 E1HRP2 Minimum HRES enclosure of POLY2 = 3.0  U
 SPAC_HRES_POLY1_S1HRP1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1HRP1 Minimum HRES to POLY1 spacing = 0.35  U
 SPAC_HRES_POLY2_S1HRP2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1HRP2 Minimum HRES to POLY2 spacing = 3.0  U
 SPAC_HRES_DIFF_S1DFHR
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1DFHR Minimum HRES to DIFF spacing = 0.35  U
 ILL_PPLUS_CPOLY_RECG1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CPOLY_G1 PPLUS on CPOLY is not allowed
 ILL_NPLUS_CPOLY_RECG2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CPOLY_G2 NPLUS on CPOLY is not allowed
 SPAC_PPLUS_CPOLY_RECG1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CPOLY_G1 Warning : Spacing pplus cpoly < 1 U
 SPAC_NPLUS_CPOLY_RECG2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CPOLY_G2 Warning : Spacing nplus cpoly < 1 U
 ILL_PPLUS_RPOLY2_R1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 RPOLY2_R1 PPLUS on RPOLY2 is not allowed
 ILL_NPLUS_RPOLY2_R2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 RPOLY2_R2 NPLUS on RPOLY2 is not allowed
 ILL_RPOLY2_RATIO_RECG1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 RPOLY2_G1 Minimum number of RPOLY2 squares = 5
 ILL_RNWELL_RATIO_RECG1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 RNWELL_G1 Minimum number of RNWELL squares = 5
 OVLP_PPLUS_RPHCON_E1IPCT
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 E1IPCT Minimum PPLUS enclosure of POLY2CON = 0.6 U
 ILL_POLY2CON_E1IPCT
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 E1IPCT POLY2CON on RPOLYH is not allowed without PPLUS
 SPAC_PPLUS_RPOLYH_S1IPP2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 S1IPP2 Minimum PPLUS to RPOLYH spacing = 0.35 U
 ILL_RPOLYH_RATIO_RECG1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 RPOLYH_G1 Minimum number of RPOLYH squares = 5
 WIDTH_RPOLYH_RECG2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 RPOLYH_G2 Minimum high precision RPOLYH width = 2
 ILL_MET1_NOHOLES_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMW0 Wide M1 > 35um should have slots.
 ILL_MET2_NOHOLES_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMW0 Wide M2 > 35um should have slots.
 ILL_MET3_NOHOLES_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMW0 Wide M3 > 35um should have slots.
 ILL_MET4_NOHOLES_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMW0 Wide M4 > 35um should have slots.
 WIDTH_M1SLOT_AMW1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMW1 metal1 Fixed slot width = 3.0
 WIDTH_M2SLOT_AMW1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMW1 metal2 Fixed slot width = 3.0
 WIDTH_M3SLOT_AMW1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMW1 metal3 Fixed slot width = 3.0
 WIDTH_M4SLOT_AMW1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMW1 metal4 Fixed slot width = 3.0
 LENGTH_M1SLOT_AML1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AML1 metal1 Minimum slot length = 30.0
 LENGTH_M1SLOT_MAX_AML2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AML2 metal1 Maximum slot length = 300.0
 LENGTH_M2SLOT_AML1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AML1 metal2 Minimum slot length = 30.0
 LENGTH_M2SLOT_MAX_AML2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AML2 metal2 Maximum slot length = 300.0
 LENGTH_M3SLOT_AML1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AML1 metal3 Minimum slot length = 30.0
 LENGTH_M3SLOT_MAX_AML2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AML2 metal3 Maximum slot length = 300.0
 LENGTH_M4SLOT_AML1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AML1 metal4 Minimum slot length = 30.0
 LENGTH_M4SLOT_MAX_AML2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AML2 metal4 Maximum slot length = 300.0
 SPAC_M1HOLE_AMS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMS1 metal1 Minimum spacing between two parallel slots = 10.0
 SPAC_M2HOLE_AMS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMS1 metal2 Minimum spacing between two parallel slots = 10.0
 SPAC_M3HOLE_AMS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMS1 metal3 Minimum spacing between two parallel slots = 10.0
 SPAC_M4HOLE_AMS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMS1 metal4 Minimum spacing between two parallel slots = 10.0
 SPAC_M1M2HOLE_AMC1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMC1 met1 met2  2.0
 SPAC_M2M3HOLE_AMC1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMC1 met2 met3  2.0
 SPAC_M3M4HOLE_AMC1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMC1 met3 met4  2.0
 OVLP_MET1_M1HOLE_AMC2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMC2/AMC3 metal1 Minimum slot to inner metal edge spacing = 10.0
 OVLP_MET2_M2HOLE_AMC2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMC2/AMC3 metal2 Minimum slot to inner metal edge spacing = 10.0
 OVLP_MET3_M3HOLE_AMC2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMC2/AMC3 metal3 Minimum slot to inner metal edge spacing = 10.0
 OVLP_MET4_M4HOLE_AMC2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMC2/AMC3 metal4 Minimum slot to inner metal edge spacing = 10.0
 ILL_OUT_M1HOLE_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AM ERROR BAD SLOT: met1 hole outside met1
 ILL_OUT_M2HOLE_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AM ERROR BAD SLOT: met2 hole outside met2
 ILL_OUT_M3HOLE_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AM ERROR BAD SLOT: met3 hole outside met3
 ILL_CONT_M1HOLE_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AM ERROR BAD SLOT: met1 hole over cont   
 ILL_VIA_M1HOLE_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AM ERROR BAD SLOT: met1 hole over via   
 ILL_VIA_M2HOLE_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AM ERROR BAD SLOT: met2 hole over via   
 ILL_VIA2_M2HOLE_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AM ERROR BAD SLOT: met2 hole over via2
 ILL_VIA2_M3HOLE_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AM ERROR BAD SLOT: met3 hole over via2   
 ILL_OUT_M4HOLE_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AM ERROR BAD SLOT: met4 hole outside met4
 ILL_VIA3_M4HOLE_AMW0
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AM ERROR BAD SLOT: met4 hole over via3   
 ILL_MISS_MET4BLOCK_AMTS1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMTS1 Maximum MTOP spacing when the width of one or both MTOP shapes is less than 10um = 10.0  
 ILL_MET4BLOCK_AMTW1_REC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMTW1/AMTL1 fixed with of met4 blocks
 SPAC_MET4BLOCK_MET4_AMTS2_REC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMTS2 minimum met4 to met4 block spacing
 SPAC_MET4BLOCK_MET4_AMTS3_REC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMTS3 maximum met4 to met4 block spacing
 SPAC_MET4BLOCK_AMTS4_REC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 AMTS4 fixed met4 block spacing
 ILL_RATIO_CONT_POLY1_RECG01P1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 G01P1 Maximum ratio of POLY1 area to connected CONT area = 18000
 ILL_RATIO_CONT_POLY2_RECG01P2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 G01P2 Maximum ratio of POLY2 area to connected CONT area = 22000
 ILL_MET4_MET3_BONDPAD_CBR1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CBR1 PAD met4 not connected to met3
 ILL_MET3_MET2_BONDPAD_CBR1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CBR1 PAD met3 not connected to met2
 ILL_MET2_MET1_BONDPAD_CBR1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CBR1 PAD met2 not connected to met1
 OVLP_RESTRM_RESDEF_REC
-0 0 4 Jun 13 16:56:48 2023                     
+0 0 4 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Recommendation : Fixed RESTRM enclosure of RESDEF edge 0.1 U
 or missing RESTRM
 ILL_DIFF_NOT_CONT_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: DIFF without any contact
 ILL_POLY1_NOT_CONT_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Floating POLY1
 ILL_POLY2_NOT_CONT_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Floating POLY2
 ILL_MET1_NOT_VIA_CONT_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Floating MET1
 ILL_MET2_NOT_VIA2_VIA_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Floating MET2
 ILL_MET3_NOT_VIA2_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Floating MET3
 ILL_MET4_NOT_VIA3_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Floating MET4
 INFO_TOPMINMET4_ON_VIA3
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO:    Min Top MET4 on VIA3 stack is used     
 INFO_TOPMINMET2_ON_VIA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO:     Min Top MET2 on VIA stack is used     
 INFO_TOPMINMET3_ON_VIA2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO:     Min Top MET3 on VIA2 stack is used     
 INFO_TOPMINMET34_ON_VIA23
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO:     Min Top MET4 and min MET3 on VIA3/VIA2 stack is used
 INFO_TOPMINMET32_ON_VIA_VIA2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO:     Min Top MET3 and min MET2 on VIA/VIA2 stack is used
 INFO_SUBDEF
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO: subdef layer found, only info
 INFO_SUBDEF_CUT_NTUB
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: subdef layer cuts ntub
 ILL_SUBDEF_CUT_GATE
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: subdef layer cuts gate area
 ILL_SUBDEF_CUT_SUBTAP
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: subdef layer cuts subtap area
 SPAC_SUBDEFAREA_CONN
-0 0 4 Jun 13 16:56:48 2023                     
+0 0 4 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: spacing substrate same potential
 substrate regions are shorted
 ILL_POSSIBLE_Z_DIODE_ERC
-0 0 5 Jun 13 16:56:48 2023                     
+0 0 5 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: If ndiff and pdiff are butted they have to be
 on the same net - connected by met1
 p/ndiff abutment on different nets is a z-diode
 ILL_HV_NMOS_ERC
-0 0 4 Jun 13 16:56:48 2023                     
+0 0 4 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: gate area and nwell area of the high voltage nmos
 must overlap by 1.6 U exactly
 INFO_TEXT_VDD
-1 1 2 Jun 13 16:56:48 2023                     
+1 1 2 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 p 1 4
@@ -1537,7 +1537,7 @@ p 1 4
 7050 2900
 6950 2900
 INFO_TEXT_VSS
-1 1 2 Jun 13 16:56:48 2023                     
+1 1 2 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 p 1 4
@@ -1546,502 +1546,502 @@ p 1 4
 650 3150
 550 3150
 ILL_SOFT_CONN_MET1_NWELL_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Soft connection of met1 in nwell 
 ILL_SOFT_CONN_PTRANS_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Soft connection of sd of ptrans 
 ILL_SOFT_CONN_MET1_PSUB_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Soft connection of met1 in psub 
 ILL_SOFT_CONN_NTRANS_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Soft connection of sd of ntrans 
 ILL_SOFT_CONN_MET1_WELLTAP_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Soft connection of met1 to welltap in nwell 
 ILL_SOFT_CONN_MET1_SUBTAP_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Soft connection of met1 to subtap in psub 
 ILL_FLOATING_GATE_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: floating gates not conn s/d or resistor 
 ILL_GATES_CONN_VDD_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Gates connected VDD/VCC/VBAT, do not switch
 ILL_GATES_CONN_VSS_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Gates connected VSS/GND/VEE/VSUB, do not switch
 ILL_NWELL_NOT_CONN_VDD_SD_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Nwell not connected VDD or pgate sd in same well
 SPAC_NTAP_IN_NWELL_GT50_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: distance well taps > 50  U
 SPAC_SUBTAP_NDIFF50_LAT3_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: LAT3 distance s/d diff ngate subtap > 50
 SPAC_WELLTAP_PDIFF50_LAT3_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: LAT3 distance s/d diff pgate welltap > 50
 SPAC_SUBTAP_NDIFF_LAT3_REC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Recommendation : ERC Warning: LAT3 distance s/d diff ngate subtap > 20
 SPAC_WELLTAP_PDIFF_LAT3_REC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Recommendation : ERC Warning: LAT3 distance s/d diff pgate welltap > 20
 ILL_PGATE_LAT2DEV_NOVDD_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: pgate of lat2 transistor not connected to VDD/VCC/VBAT
 ILL_CONT_RPOLY2_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: illegal contact covering poly2 resistor
 ILL_CONT_RDIFFN_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: illegal contact covering ndiff resistor
 ILL_CONT_RDIFFP_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: illegal contact covering pdiff resistor
 ILL_CONT_RPOLYH_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: illegal contact covering hrpoly resistor
 ILL_CONT_RNWELL_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: illegal contact covering rnwell resistor
 ILL_POLY2_RPOLY2_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: illegal POLY2 touching poly2 resistor outside
 ILL_POLY2CUT_RPOLY2_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: illegal POLY2CUT touching poly2 resistor body
 ILL_POLY2_RPOLYH_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: illegal poly2cut touching rpolyh resistor
 ILL_NTUB_RNWELL_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: illegal NTUB touching rnwell resistor outside
 ILL_PDIFF_RDIFFP_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: illegal pdiff touching rdiffp resistor outside
 ILL_NWELL_RDIFFP_NOVDD_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: no nwell pdiff resistor or not connected to VDD/VCC/VBAT
 ILL_NWELL_RPOLY1_NOSUPPLY_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: no nwell below poly1 res or not connected to VDD or VSS
 ILL_NWELL_CPOLY_NOSUPPLY_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: no nwell below cap or not connected to VDD or VSS
 WARNING_REDUCED_CELL
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 WARNING : Reduced cell found
 INFO_RF_PAD
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO: RF PAD 8 vertices and rfdef layer 
 INFO_ILLEGAL_RF_PAD
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO: obsolate PAD, PAD with 8 vertices, but no rfdef layer
 INFO_BOND_PAD
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO: bond PAD
 INFO_ILL_PAD_PITCH_100
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Error: pad pitch less than 100 U
 ILL_FLOATING_NET_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: floating net, net not connected to any device 
 SHORTED_PADS_EQ2_SERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : 2 pads are shorted ( may be intentional VSS) 
 SHORTED_PADS_EQ3_SERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : 3 pads are shorted ( may be intentional VSS)
 SHORTED_PADS_EQ4_SERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : 4 pads are shorted ( may be intentional VSS)
 SHORTED_PADS_GT4_SERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning : more than 4 pads are shorted ( may be intentional VSS)
 INFO_PROBE_PAD
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO: Probe pad with probe layer
 ILL_MISS_MET4_PROBE_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Missing met4 and/or via3 on Probe Pad
 ILL_WIDTH_MET4_PROBE_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: met4 on Probe Pad too small
 WIDTH_PROBE_PAD_ERC
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERC Warning: Minimum PROBE width = 3 U
 BAD_HALL_UNIDENT
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Name of hall element not identified
 BAD_HALL_ILLEGAL_LAYER
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Error: bad layer in center of hall element 
 HALLC35_MISS_TERM_A
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERROR : Text for terminal A is missing on HALLC35
 HALLC35_MISS_TERM_B
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERROR : Text for terminal B is missing on HALLC35
 HALLC35_MISS_TERM_C
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERROR : Text for terminal C is missing on HALLC35
 HALLC35_MISS_TERM_D
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERROR : Text for terminal D is missing on HALLC35
 HALLC35_MISS_TERM_P1
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERROR : Text for terminal P1 is missing on HALLC35
 HALLC35_MISS_TERM_P2
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERROR : Text for terminal P2 is missing on HALLC35
 HALLC35_MISS_TERM_S
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ERROR : Text for terminal S is missing on HALLC35
 HALLC35_ORIENT_COUNTERCLOCKWISE
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO: Orientation of hall element pins a/b/c/d is anti-clockwise
 HALLC35_ORIENT_CLOCKWISE
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO: Orientation of hall element pins a/b/c/d is clockwise
 HALLC35_ORIENT_UNIDENTIFIED
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 INFO: Orientation of hall element pins a/b/c/d is unidentified
 HALL_NTUB_AREA
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 HALLC35 Element Rule : NTUB area [um 2] =  1503.2
 HALL_NTUB_PERIM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 HALLC35 Element Rule : NTUB perimeter [um] = 180.9 180.9
 HALL_PTAP_PERIM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 HALLC35 Element Rule : Inner PTAP perimeter [um] = 198 198
 HALL_COIL_PERIM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 HALLC35 Element Rule : Inner coil perimeter [um] = 97.4 97.4
 VERT10_BASE_NTUB_PERI_P2_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VERT10_P2 Element Rule : Base Ntub Perimeter/4 = 13.8
 VERT10_PTAP_INSIDE_PERI_P3_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VERT10_P3 Element Rule : Ptap Inside Perimeter/4 = 14.9
 VERT10_OVLP_NTUB_NTAP_E1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 VERT10_E1 Element Rule : NTUB enclosure of ntap = 0.45
 LAT2_EMITTER_PERI_P1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 LAT2_P1 Element Rule : Emitter Perimeter/4 = 2
 LAT2_COLL_PDIFF_PERI_P2_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 LAT2_P2 Element Rule : Collector pdiff Perimeter/4 = 6.2
 LAT2_BASE_NTUB_PERI_P3_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 LAT2_P3 Element Rule : Base Ntub Perimeter/4 = 10.0
 LAT2_PTAP_INSIDE_PERI_P4_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 LAT2_P4 Element Rule : Ptap Inside Perimeter/4 = 11.1
 LAT2_BASE_WIDTH_W1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 LAT2_W1 Element Rule : Lateral Base Width = 1
 LAT2_OVLP_NTUB_NTAP_E1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 LAT2_E1 Element Rule : NTUB enclosure of ntap = 0.45
 LAT2_GATE_NOVDD_G1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 LAT2_G1 Element Rule : gate of lat2 transistor not connected to VDD or VCC
 NMOSH_OVLP_GATE_NTUB_O1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NMOSH_O1/NMOSMH_O1 Element Rule : Gate Overlap of Ntub = 1.6 U
 NMOSH_SPAC_GATE_DRDIFF_S1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NMOSH_S1/NMOSMH_S1 Element Rule : Gate Drain Diff spacing = 2.8 U
 NMOSH_OVLP_POLY_GATE_E1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NMOSH_E1/NMOSMH_E1 Element Rule : Poly Extension of gate = 0.6 U
 NMOSH_GATE_LENGTH_L1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NMOSH_L1/NMOSMH_L1 Element Rule : Gate Length = 3.0 U
 NMOSH_DRAIN_NDIFF45_X1_1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NMOSH_X1/NMOSMH_X1 Element Rule : drain angles = 45
 NMOSH_DRAIN_NDIFF45_X1_2_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NMOSH_X1/NMOSMH_X1 Element Rule :edge length = 0.6 * sqrt(2)
 CVAR_ILL_GATE_WIDTH_W1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CVAR_W1 Element Rule : Gate unit width = 0.65
 CVAR_ILL_GATE_LENGTH_L1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CVAR_L1 Element Rule : Gate unit length = 6.60
 CVAR_ILL_GATE_SPAC_X1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CVAR_X1 Element Rule : Gate spacing 1.0
 CVAR_ILL_DIFF_SPAC_Y1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 CVAR_Y1 Element Rule : Diff spacing 1.6
 ZD2SM24_ILL_IMPL_OVLP_O1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ZD2SM24_O1 Element Rule : must have 0.2 U implant ovlp
 ZD2SM24_ILL_IMPL_LENGTH_W1_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 ZD2SM24_W1 Element Rule : must have 0.408 U implant edge length
 NMOSRF_OPEN_GATE
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NMOSRF element rule : gates must be connected
 PMOSRF_OPEN_GATE
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PMOSRF element rule : gates must be connected
 NMOSRF_FIXED_L_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NMOSRF element rule : fixed length = 0.35
 PMOSRF_FIXED_L_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PMOSRF element rule : fixed length = 0.35
 NMOSRF_FIXED_W_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NMOSRF element rule : Gate width must be 5.0 U or 10 U 
 PMOSRF_FIXED_W_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PMOSRF element rule : Gate width must be 5.0 U or 10 U 
 NMOSRF_FIXED_WMAX5_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NMOSRF element rule : NMOSRF Element rule stripe width 5 U : max width = 200 U
 NMOSRF_FIXED_WMAX10_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 NMOSRF element rule : NMOSRF Element rule stripe width 10 U : max width = 200 U
 PMOSRF_FIXED_WMAX5_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PMOSRF element rule : PMOSRF Element rule stripe width 5 U : max width = 150 U
 PMOSRF_FIXED_WMAX10_ELEM
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 PMOSRF element rule : PMOSRF Element rule stripe width 10 U : max width = 150 U
 MISSING_FIMP
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Generated Layers: missing FIMP layer
 MISSING_NLDD
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Generated Layers: missing NLDD layer 
 MISSING_NLDD50
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Generated Layers: missing NLDD50 layer 
 ILL_NMOSHL4_UNAVAILABLE
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Process Modules : nmoshl4 device not available
 ILL_NMOSMHL4_UNAVAILABLE
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Process Modules : nmosmhl4 device not available
 ILL_NMOSL4_UNAVAILABLE
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Process Modules : nmosl4 device not available
 ILL_NMOSML4_UNAVAILABLE
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Process Modules : nmosml4 device not available
 ILL_PMOSL4_UNAVAILABLE
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Process Modules : pmosl4 device not available
 ILL_PMOSML4_UNAVAILABLE
-0 0 3 Jun 13 16:56:48 2023                     
+0 0 3 Jun 27 16:39:25 2023                     
 Rule File Pathname: /local/users/cad/work04/stapfpereira.proj/cell.lib/default.group/layout.views/inver/inver.cal/_c35b4c3.rules_
 Rule File Title: DRC/LVS 0.35 U CMOS C35B4/C35B3 polycide 3V/5V (last modified 6-Sep-05)
 Process Modules : pmosml4 device not available

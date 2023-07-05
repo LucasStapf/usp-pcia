@@ -1,4 +1,4 @@
-.param wpadrao = 1.7u
+*.param wpadrao = 1.7u
 
 .MODEL RPOLYH RES  MODTYPE=ELDO
 *-----------------------------------------------------------------------

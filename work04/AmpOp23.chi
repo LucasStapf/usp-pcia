@@ -1,4 +1,4 @@
-1*******14-Jun-23 *******  ELDO v6.6_1.1 Production(64 bits)  (v6.6_1.1)  *******17:04:52******
+1******* 3-Jul-23 *******  ELDO v6.6_1.1 Production(64 bits)  (v6.6_1.1)  *******10:13:57******
 
 0****** Twostage Amplifier 2021 **********
 
@@ -34,21 +34,22 @@
    28  Vdd vd 0 DC 1.5V
    29  Vss vs 0 DC -1.5V
    30  
-   31  Vin in 0 DC -70.96uV
-   32  *Vip ip 0 DC 0V AC 1V 
-   33  Vip  ip  0 pulse( 1 -1 0  1n  1n 5us  10us) 
-   34  
+   31  *Vin in 0 DC -70.96uV
+   32  *Vin in 0 DC -402.39uV ** CANCELAR OFFSET **
+   33  *Vip ip 0 DC 0V AC 1V
+   34  Vip ip 0 SIN(0 0.5 1k 0 0 0) 
    35  
-   36  *.DC Vin -1mV  1mV  1uV
-   37  *.probe DC v(out)
-   38  *.AC DEC 10  1 100Meg
-   39  *.probe AC  vdb(out) vp(out)
-   40  *.pz v(out)
-   41  .PROBE TRAN V(IN) V(IP) V(OUT) ID(M1) ID(M2) I(VDD) 
-   42  ** including /local/users/cad/work04/Model35_Eldo
-    1  .PARAM WPADRAO = 1.7U
+   36  Vcc in out DC 0V
+   37  
+   38  *.DC Vin -1mV  1mV  1uV
+   39  *.probe DC v(out)
+   40  *.AC DEC 10 1 100Meg
+   41  *.probe AC  vdb(out) vp(out)
+   42  *.pz v(out)
+   43  .PROBE TRAN V(IN) V(IP) V(OUT) ID(M1) ID(M2) I(VDD) 
+   44  ** including /local/users/cad/work04/Model35_Eldo
+    1  *.param wpadrao = 1.7u
     2  
-Warning  46:Double definition for parameter WPADRAO
     3  .MODEL RPOLYH RES  MODTYPE=ELDO
     4  *-----------------------------------------------------------------------
     5  * Owner: austriamicrosystems
@@ -245,17 +246,18 @@ Warning  46:Double definition for parameter WPADRAO
   196  +MJ     =5.400E-01 MJSW   =4.600E-01 TT     =0.000E+00 
   197  +XTI    =1.973E+00 PB     =1.020E+00 PBSW   =1.020E+00 
   198  * ----------------------------------------------------------------------
-   42  
-   43  *.ic V(out)=1 V(3)=0
-   44  .tran 10u 50us 0 0.01u
-   45  
-   46  *.print Tran v(in)
-   47  .END
+   44  
+   45  *.ic V(out)=1 V(3)=0
+   46  .tran 10u 2ms 0 0.01u
+   47  
+   48  *.print Tran v(in)
+   49  .END
+
 End of file 
 
 
 ***** 0  error(s). 
-***** 1  warning(s). 
+***** 0  warning(s). 
 
 
 
@@ -263,25 +265,25 @@ End of file
 
 
 ***** 0  error(s). 
-***** 1  warning(s). 
+***** 0  warning(s). 
 
 
 INFORMATION ABOUT COMPILATION 
 
 
-Memory space allocated (bytes): 792365
+Memory space allocated (bytes): 792722
 16 elements
-10 nodes 
-4 input signals
+9 nodes 
+3 input signals
 Detail about objects and nodes found in the design...
-Number of nodes                     10
+Number of nodes                     9
 Number of intrinsic nodes           0
-Number of input signals             4
+Number of input signals             3
 Number of resistors                 1
 Number of floating capacitors       1
 Number of grounded capacitors       1
 Number of inductors                 0
-Number of voltage sources           4
+Number of voltage sources           3
 Number of current sources           1
 Number of dependent sources         0
 Number of diodes                    0
@@ -290,17 +292,17 @@ Number of JFET                      0
 Number of MOS                       9
 Number of SWITCHES                  0
 Number of transmission lines        0
-Total number of elements            16
+Total number of elements            15
 
 Eldo VERSION : ELDO v6.6_1.1 Production(64 bits) Wed Sep 28 08:48:28 GMT 2005
 
-*** DATE: 14-Jun-2023 17:04:52
+*** DATE:  3-Jul-2023 10:13:57
 
 *** TITLE: ****** Twostage Amplifier 2021 **********
 
 TEMPERATURE : 27.000000 degrees C
 
-1***************14-Jun-2023 ***********************  ELDO v6.6_1.1 Production(64 bits)  (v6.6_1.1)  ***********************17:04:52*****************
+1*************** 3-Jul-2023 ***********************  ELDO v6.6_1.1 Production(64 bits)  (v6.6_1.1)  ***********************10:13:57*****************
 
 0****** Twostage Amplifier 2021 *********
 0****                 MODELS PARAMETERS                                    TEMPERATURE =   27.000 DEG C
@@ -569,15 +571,15 @@ CONNECTED OBJECTS LISTING
   RESISTORS
  NAME    N1       N2           VALUE        TC1           TC2
 
- ROUT     OUT      0        1.000000E+08 0.000000E+00 0.000000E+00
+ ROUT     IN       0        1.000000E+08 0.000000E+00 0.000000E+00
 
 **********
 
   CAPACITORS
  NAME       N1       N2          VALUE        COND
 
- CC         5        OUT      1.000000E-12   INCOND
- C_OUT      OUT      0        1.000000E-12   INCOND
+ CC         5        IN       1.000000E-12   INCOND
+ C_IN       IN       0        1.000000E-12   INCOND
 
 *****
 
@@ -597,117 +599,117 @@ MOS
  M1       1        IN       4        VS       MODN  
 
            4.46000U                     41.93000U 
-           35.64050P                    35.64050P 
-           43.63000U                    43.63000U 
+           17.82025P                    17.82025P 
+           42.78000U                    42.78000U 
           UNDEF                  UNDEF
 
            4.56010U                     41.74266U 
-           35.64050P                    35.64050P 
-           43.63000U                    43.63000U 
+           17.82025P                    17.82025P 
+           42.78000U                    42.78000U 
            1.33554                     1.33554  
 
 
  M2       3        IP       4        VS       MODN  
 
            4.49000U                     41.93000U 
-           35.64050P                    35.64050P 
-           43.63000U                    43.63000U 
+           17.82025P                    17.82025P 
+           42.78000U                    42.78000U 
           UNDEF                  UNDEF
 
            4.59010U                     41.74266U 
-           35.64050P                    35.64050P 
-           43.63000U                    43.63000U 
+           17.82025P                    17.82025P 
+           42.78000U                    42.78000U 
            1.33554                     1.33554  
 
 
  M3       1        1        VD       VD       MODP  
 
            1.00000U                     15.23000U 
-           12.94550P                    12.94550P 
-           16.93000U                    16.93000U 
+           6.47275P                     6.47275P  
+           16.08000U                    16.08000U 
           UNDEF                  UNDEF
 
            1.14260U                     15.16139U 
-           12.94550P                    12.94550P 
-           16.93000U                    16.93000U 
+           6.47275P                     6.47275P  
+           16.08000U                    16.08000U 
            6.77594                     6.77594  
 
 
  M4       3        1        VD       VD       MODP  
 
            1.00000U                     15.23000U 
-           12.94550P                    12.94550P 
-           16.93000U                    16.93000U 
+           6.47275P                     6.47275P  
+           16.08000U                    16.08000U 
           UNDEF                  UNDEF
 
            1.14260U                     15.16139U 
-           12.94550P                    12.94550P 
-           16.93000U                    16.93000U 
+           6.47275P                     6.47275P  
+           16.08000U                    16.08000U 
            6.77594                     6.77594  
 
 
  M5       4        BIAS     VS       VS       MODN  
 
            2.30000U                     119.24000U
-           101.35400P                   101.35400P
-           120.94000U                   120.94000U
+           50.67700P                    50.67700P 
+           120.09000U                   120.09000U
           UNDEF                  UNDEF
 
            2.40010U                     119.05223U
-           101.35400P                   101.35400P
-           120.94000U                   120.94000U
+           50.67700P                    50.67700P 
+           120.09000U                   120.09000U
            46.96399M                    46.96399M 
 
 
- M6       OUT      3        VD       VD       MODP  
+ M6       IN       3        VD       VD       MODP  
 
            1.00000U                     15.23000U 
-           12.94550P                    12.94550P 
-           16.93000U                    16.93000U 
+           6.47275P                     6.47275P  
+           16.08000U                    16.08000U 
           UNDEF                  UNDEF
 
            1.14260U                     15.16139U 
-           12.94550P                    12.94550P 
-           16.93000U                    16.93000U 
+           6.47275P                     6.47275P  
+           16.08000U                    16.08000U 
            1.69398                     1.69398  
 
 
- M7       OUT      BIAS     VS       VS       MODN  
+ M7       IN       BIAS     VS       VS       MODN  
 
            2.30000U                     119.24000U
-           101.35400P                   12.94550P 
-           120.94000U                   16.93000U 
+           50.67700P                    6.47275P  
+           120.09000U                   16.08000U 
           UNDEF                  UNDEF
 
            2.40010U                     119.05223U
-           101.35400P                   12.94550P 
-           120.94000U                   16.93000U 
+           50.67700P                    6.47275P  
+           120.09000U                   16.08000U 
            23.48200M                    23.48200M 
 
 
  M8       3        VS       5        VD       MODP  
 
            1.00000U                     30.80000U 
-           26.18000P                    26.18000P 
-           32.50000U                    32.50000U 
+           13.09000P                    13.09000P 
+           31.65000U                    31.65000U 
           UNDEF                  UNDEF
 
            1.14260U                     30.73120U 
-           26.18000P                    26.18000P 
-           32.50000U                    32.50000U 
+           13.09000P                    13.09000P 
+           31.65000U                    31.65000U 
            3.35063                     3.35063  
 
 
  MBN      BIAS     BIAS     VS       VS       MODN  
 
            2.30000U                     119.24000U
-           101.35400P                   101.35400P
-           120.94000U                   120.94000U
+           50.67700P                    50.67700P 
+           120.09000U                   120.09000U
           UNDEF                  UNDEF
 
            2.40010U                     119.05223U
-           101.35400P                   101.35400P
-           120.94000U                   120.94000U
+           50.67700P                    50.67700P 
+           120.09000U                   120.09000U
            469.63993M                   469.63993M
 
 
@@ -719,8 +721,7 @@ MOS
 
  VDD        VD         0             1.500000E+00
  VSS        VS         0             -1.500000E+00
- VIN        IN         0             -7.096000E-05
- VIP        IP         0             1.000000E+00
+ VIP        IP         0             0.000000E+00
 
 ********************
 
@@ -733,7 +734,7 @@ Searching Operating Point between -4.500000E+00V and
 
 
 
-1***************14-Jun-2023 ***********************  ELDO v6.6_1.1 Production(64 bits)  (v6.6_1.1)  ***********************17:04:52*****************
+1*************** 3-Jul-2023 ***********************  ELDO v6.6_1.1 Production(64 bits)  (v6.6_1.1)  ***********************10:13:57*****************
 
 0****** Twostage Amplifier 2021 **********
 0****                 OPTION SUMMARY                                        TEMPERATURE =   27.000 DEG C
@@ -805,14 +806,14 @@ ULOGIC         = 0
 
 
 
-***> DC CPU TIME 0s 000ms <***
+***> DC CPU TIME 0s 010ms <***
 
-DC:12 iterations FOR DC analysis
-
-
+DC:43 iterations FOR DC analysis
 
 
-1***************14-Jun-2023 ***********************  ELDO v6.6_1.1 Production(64 bits)  (v6.6_1.1)  ***********************17:04:52*****************
+
+
+1*************** 3-Jul-2023 ***********************  ELDO v6.6_1.1 Production(64 bits)  (v6.6_1.1)  ***********************10:13:57*****************
 
 0****** Twostage Amplifier 2021 **********
 0****                 INITIAL TRANSIENT SOLUTION                           TEMPERATURE =   27.000 DEG C
@@ -821,22 +822,21 @@ DC:12 iterations FOR DC analysis
 
 
   NODE         VOLTAGE      NODE         VOLTAGE      NODE         VOLTAGE    
-1            0.62804      3           -0.78402      4           -0.78990      
-5           -0.78146      BIAS        -1.0464      IN          -7.0960E-05  
-IP           1.0000      OUT          1.4881      VD           1.5000      
-VS          -1.5000      
+1            0.62529      3            0.62534      4           -0.79190      
+5            0.62534      BIAS        -1.0464      IN          -4.0238E-04  
+IP           0.0         VD           1.5000      VS          -1.5000      
+
 
 
    VOLTAGE SOURCE CURRENT
 
 NAME      CURRENT      VOLTAGE      POWER        
 IBB        1.9011E-06   2.5464       4.8408E-06  
-VDD       -6.3598E-05   1.5000      -9.5397E-05  
-VSS        6.3583E-05  -1.5000      -9.5375E-05  
-VIN        0.0         -7.0960E-05   0.0         
-VIP        0.0          1.0000       0.0         
+VDD       -6.0772E-05   1.5000      -9.1158E-05  
+VSS        6.0772E-05  -1.5000      -9.1158E-05  
+VIP        0.0          0.0          0.0         
 
-   TOTAL POWER DISSIPATION:  1.9077E-04 WATTS
+   TOTAL POWER DISSIPATION:  1.8232E-04 WATTS
 
 
 
@@ -846,38 +846,38 @@ Eldo NEWTON: VNTOL=1.000000e-06 RELTOL=6.111111e-04
 
 ................................................
 Simulation progress           : 10%
-Elapsed CPU time              : 0h 0mn 0s 10
+Elapsed CPU time              : 0h 0mn 0s 240
 ................................................
 Simulation progress           : 20%
-Elapsed CPU time              : 0h 0mn 0s 10
+Elapsed CPU time              : 0h 0mn 0s 500
 ................................................
 Simulation progress           : 30%
-Elapsed CPU time              : 0h 0mn 0s 30
+Elapsed CPU time              : 0h 0mn 0s 770
 ................................................
 Simulation progress           : 40%
-Elapsed CPU time              : 0h 0mn 0s 40
+Elapsed CPU time              : 0h 0mn 1s 20
 ................................................
 Simulation progress           : 50%
-Elapsed CPU time              : 0h 0mn 0s 50
+Elapsed CPU time              : 0h 0mn 1s 280
 ................................................
 Simulation progress           : 60%
-Elapsed CPU time              : 0h 0mn 0s 50
+Elapsed CPU time              : 0h 0mn 1s 550
 ................................................
 Simulation progress           : 70%
-Elapsed CPU time              : 0h 0mn 0s 60
+Elapsed CPU time              : 0h 0mn 1s 810
 ................................................
 Simulation progress           : 80%
-Elapsed CPU time              : 0h 0mn 0s 70
+Elapsed CPU time              : 0h 0mn 2s 80
 ................................................
 Simulation progress           : 90%
-Elapsed CPU time              : 0h 0mn 0s 80
+Elapsed CPU time              : 0h 0mn 2s 370
 ................................................
 Simulation progress           : 100%
-Elapsed CPU time              : 0h 0mn 0s 90
+Elapsed CPU time              : 0h 0mn 2s 620
 
 
 
-1***************14-Jun-2023 ***********************  ELDO v6.6_1.1 Production(64 bits)  (v6.6_1.1)  ***********************17:04:52*****************
+1*************** 3-Jul-2023 ***********************  ELDO v6.6_1.1 Production(64 bits)  (v6.6_1.1)  ***********************10:13:57*****************
 
 0****** Twostage Amplifier 2021 **********
 0****                 ACCOUNTING INFORMATION                                TEMPERATURE =   27.000 DEG C
@@ -890,7 +890,7 @@ Elapsed CPU time              : 0h 0mn 0s 90
 
     NUNODS NCNODS NUMNOD   NUMEL   DIODES    BJT  JFET  MOSFET
 
-        28     10     28      16        0      0     0       9
+        27      9     27      15        0      0     0       9
 
     NUMGC
 
@@ -899,37 +899,37 @@ Elapsed CPU time              : 0h 0mn 0s 90
 
     NSTOP    NTERM    PERSPA  
 
-       24      110 8.090e+01
+       24      114 8.021e+01
 
     NUMTTP  NUMRTP  LTERTP  LTERTPNW NWNOCON
 
-      5133       0       0       0       0
+    200000       0       0       0       0
 
   DIGITAL  INWCALL    ITERNW   MEMSIZE
 
-        0     5751 1.120e+00   1445359
+        0   200052 1.000e+00   1445604
 
     NDEVCALL       NKIRCH  NMAXCALL      ITERM     LATENCY
 
-       30439            6         5   9.88e-01   0.000e+00%
+      814496            1         2   1.00e+00   0.000e+00%
 
 
-  TRANSIENT JOB TIME                 0
+  TRANSIENT JOB TIME                 2
 
 
 
 
-***>CPU TIME 0s 090ms <***
+***>CPU TIME 2s 620ms <***
 
 
-***>GLOBAL CPU TIME 0s 100ms <***
+***>GLOBAL CPU TIME 2s 640ms <***
 
 
-***>GLOBAL ELAPSED TIME 0s <***
+***>GLOBAL ELAPSED TIME 3s <***
 
 
-  Job started at 14-Jun-2023 17:04:52
-  Job end at     14-Jun-2023 17:04:52
+  Job started at  3-Jul-2023 10:13:57
+  Job end at      3-Jul-2023 10:14:00
 
   Run on ec-102v2-01 (Linux 2.6.16.21-0.25-default)
 
